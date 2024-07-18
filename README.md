@@ -21,7 +21,7 @@ Two datasets from Kaggle were taken and combined together. Since the datasets ar
 1. https://www.kaggle.com/xhlulu/140k-real-and-fake-faces
 2. https://www.kaggle.com/ciplab/real-and-fake-face-detection
 
-Once downloaded create a folder called `combined-real-and-fake-faces/combined-real-vs-fake`. Within this folder should be 3 subfolders: `train`, `valid` and `test`. Combine the second dataset with the first one.
+Once downloaded create a folder called `real-and-fake/real-vs-fake`. Within this folder should be 3 subfolders: `train`, `valid` and `test`. Combine the second dataset with the first one.
 
 ### How to Run?
 
